@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 073
+# 🦁 XXD Panel 073｜几何城市志
 
 ### 把照片重构成带理性脚手架的剖切式微缩建筑景观
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 073
+# 🦁 XXD Panel 073｜Geometric City Journal
 
 ### Rebuild photographs as cutaway miniature architecture with rational scaffolding
 
