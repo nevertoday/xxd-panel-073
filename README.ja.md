@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="XXD Panel 073 プロジェクトバナー" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 073｜幾何学都市手帳
