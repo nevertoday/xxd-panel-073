@@ -240,6 +240,14 @@ mkdir -p ~/.codex/skills
 ln -s "$(pwd)/xxd-panel-073" ~/.codex/skills/xxd-panel-073
 ```
 
+يمكنك أيضاً تثبيته مباشرةً باستخدام `npx skills`:
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-073 --skill xxd-panel-073
+```
+
+يجلب هذا الأمر المستودع من GitHub ويثبّت الـ Skill ذي الاسم نفسه للوكيل الحالي. وللتثبيت في دليل Codex العام للمستخدم، أضف `--global --agent codex --yes` في نهاية الأمر.
+
 يمكن لمستخدمي Claude Code ربط المجلد نفسه بالمسار: `~/.claude/skills/xxd-panel-073`. أعد تشغيل جلسة الوكيل بعد التثبيت.
 
 ```text
