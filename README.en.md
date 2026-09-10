@@ -46,6 +46,15 @@ Ordinary miniature scenes often stop at cute model-making, while scaffolding bec
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -64,23 +73,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | Outline, structure, pose, and narrative relationship remain; source hue cues are retained before canonical brightening, purification, and de-greying |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-lock outline, structure, pose, and narrative relationship → establish correct isometric sectional space → compress into a miniature architectural model with continental-shelf depth → build connected scaffolding around contours, turns, and cut faces → express it with fine lines, flat colour, and brightened source hues → suspend it on textured white paper → add restrained architectural notation
-```
-
-## Recognisable finished traits
-
-- Preserve only the most memorable identity, pose, contour, and narrative relationship instead of redrawing the full scene.
-- Use correct isometric projection, cut-cube composition, or continental-shelf-like section with credible hierarchy and perspective.
-- Build scaffolding from horizontal and vertical members plus connection nodes that truly follow the structure rather than float as collage.
-- Combine simple geometry, flat colour, fine lines, and moderately rich structural detail in a hand-drawn architectural-diagram language.
-- Preserve source hue cues, then brighten, purify, and de-grey them; impose no outer fixed palette.
-- Use textured white paper, ample space, minimal shadow, and sparse English notation to evoke research posters and exhibition catalogues.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-073-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
