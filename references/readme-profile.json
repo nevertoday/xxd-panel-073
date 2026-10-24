@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 073｜Geometric City Journal: rebuilds the outline, structure and story of a photo as a centred miniature architectural landscape in correct isometric view, cut open like a cube or an underwater continental shelf so its layers show built around a miniature-lighthouse idea, drawn as a fine-lined hand-drawn architectural illustration; a logical scaffolding system of thin horizontal and vertical members and joints wraps, supports or measures the subject, on white textured paper with almost no shadow, in brightened, clear colours from the photo, with an optional short English title, number or year as a restrained editorial label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-073 or asks for isometric cutaway miniature, scaffolding architecture or architectural-diagram poster art from a photo.",
+  "short_description": "几何城市志：把照片重建成带理性脚手架的等距剖切微缩建筑，像一张建筑研究海报",
+  "zh-CN": {
+    "name": "几何城市志",
+    "tagline": "把照片重建成一座被剖开、搭着脚手架的等距微缩建筑模型。",
+    "look": "主体被压缩成一座居中的微缩立体场景，用准确的等距视角呈现，像一块被切开的立方体或水下大陆架，能看到切面和层次，整体围绕微缩灯塔景观的意象展开。它用细线手绘建筑图解的方式画成：简洁几何、扁平色块，细节克制而准确。一套由细密横竖杆件和节点组成的脚手架沿轮廓和切面包裹、支撑主体，像正在建造、修复或测绘。底子是白色纹理纸，几乎没有投影；颜色从照片取来后提亮、去灰，变成清澈蓝、湖水青、嫩绿、明黄、珊瑚橙等。可加一个简洁的英文标题、编号或年份，像建筑海报上的标注。",
+    "traits": [
+      "等距微缩建筑",
+      "剖切立方体",
+      "大陆架空间",
+      "脚手架节点",
+      "手绘建筑图解",
+      "白色纹理纸"
+    ],
+    "good": [
+      "结构清楚的建筑和构筑物：灯塔、教堂、老房子、一座桥",
+      "有层次的地形或场地：海岸礁石、山坡小镇、港口码头",
+      "可以当作模型展示的单体：一座亭子、一个水塔、一艘停泊的船"
+    ],
+    "poor": [
+      "以人物表情或情绪为主的照片：人像特写、情侣合影",
+      "柔软无结构的主体：云、烟、毛茸茸的动物，难以做成剖切模型",
+      "想要写实渲染、卡通模型、塑料质感或随意漂浮拼贴的需求"
+    ]
+  },
+  "en": {
+    "name": "Geometric City Journal",
+    "tagline": "Rebuilds your photo as a cutaway isometric miniature building wrapped in scaffolding.",
+    "look": "The subject becomes a centred miniature 3D scene in a correct isometric view, cut open like a cube or an underwater continental shelf so its sections and layers show, built around the idea of a miniature lighthouse landscape. It is drawn as a fine-lined hand-drawn architectural illustration: simple geometry, flat colour, restrained and accurate detail. A scaffolding system of thin horizontal and vertical members and joints wraps and supports it along its edges and cut faces, as if it were being built, restored or surveyed. It sits on white textured paper with almost no shadow, in colours taken from the photo and brightened into clear blue, lake teal, fresh green, bright yellow, coral and similar. A short English title, number or year can be added like a label on an architecture poster.",
+    "traits": [
+      "Isometric miniature",
+      "Cut-cube section",
+      "Continental-shelf space",
+      "Scaffolding joints",
+      "Hand-drawn architectural diagram",
+      "White textured paper"
+    ],
+    "good": [
+      "Buildings and structures with a clear form: a lighthouse, a church, an old house, a bridge",
+      "Layered terrain or sites: coastal rocks, a hillside village, a harbour pier",
+      "Single things that can be shown as a model: a pavilion, a water tower, a moored boat"
+    ],
+    "poor": [
+      "Photos centred on faces or emotion: close-up portraits, couples",
+      "Soft subjects with no structure, such as clouds, smoke or fluffy animals, which are hard to cut into a model",
+      "Requests for realistic rendering, cartoon models, plastic textures or loose floating collage"
+    ]
+  },
+  "ja": {
+    "name": "幾何学都市手帳",
+    "tagline": "写真を、足場に囲まれた切断面のあるアイソメトリックな微縮建築模型に作り直します。",
+    "look": "主役は中央に置かれた小さな立体の場面になり、正確なアイソメトリックで描かれます。切り開いた立方体や海中の大陸棚のように断面と層が見え、全体は微縮した灯台の風景というイメージを軸にまとめられます。描き方は細い線の手描き建築図解で、簡潔な幾何学形と平らな色面、控えめで正確な細部です。細い縦横の部材と継ぎ目でできた足場が輪郭や断面に沿って主役を包み支え、建設中、修復中、測量中のように見えます。地は白い質感のある紙で影はほとんどなく、色は写真から取って明るく澄ませ、澄んだ青、湖の青緑、若草色、明るい黄、コーラルなどにします。建築ポスターの注記のように、短い英語のタイトル、番号、年号を添えることもできます。",
+    "traits": [
+      "アイソメトリックの微縮建築",
+      "切断した立方体",
+      "大陸棚の空間",
+      "足場の継ぎ目",
+      "手描きの建築図解",
+      "白い質感紙"
+    ],
+    "good": [
+      "形のはっきりした建物や構造物：灯台、教会、古い家、橋",
+      "層のある地形や場所：海岸の岩場、丘の上の町、港の桟橋",
+      "模型として見せられる単体：あずまや、給水塔、停泊中の船"
+    ],
+    "poor": [
+      "表情や感情が中心の写真：人物のアップ、カップルの写真",
+      "構造のない柔らかな主役：雲、煙、ふわふわの動物（断面模型にしにくい）",
+      "写実的なレンダリング、漫画風の模型、プラスチックの質感、ばらばらに浮かぶコラージュを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "기하학 도시 저널",
+    "tagline": "사진을 비계로 둘러싸인 절단형 아이소메트릭 미니어처 건축 모형으로 다시 짓습니다.",
+    "look": "주인공은 가운데 놓인 작은 입체 장면이 되어 정확한 아이소메트릭 시점으로 그려집니다. 잘라 낸 정육면체나 바닷속 대륙붕처럼 단면과 층이 드러나며, 전체는 미니어처 등대 풍경이라는 이미지를 중심으로 짜입니다. 그리는 방식은 가는 선의 손그림 건축 도해로, 간결한 기하 형태와 평면 색면, 절제되고 정확한 세부입니다. 가는 가로세로 부재와 이음 마디로 된 비계가 윤곽과 단면을 따라 주인공을 감싸고 받쳐, 짓는 중이거나 보수 중이거나 측량 중인 것처럼 보입니다. 바탕은 흰 질감 종이에 그림자가 거의 없고, 색은 사진에서 가져와 밝고 맑게 바꿔 맑은 파랑, 호수 청록, 연두, 밝은 노랑, 코랄 등으로 씁니다. 건축 포스터의 표기처럼 짧은 영어 제목, 번호, 연도를 붙일 수 있습니다.",
+    "traits": [
+      "아이소메트릭 미니어처 건축",
+      "절단 정육면체",
+      "대륙붕 공간",
+      "비계 이음 마디",
+      "손그림 건축 도해",
+      "흰 질감 종이"
+    ],
+    "good": [
+      "형태가 분명한 건물과 구조물: 등대, 교회, 오래된 집, 다리",
+      "층이 있는 지형이나 장소: 해안 바위, 언덕 위 마을, 항구 부두",
+      "모형으로 보여 줄 만한 단일 대상: 정자, 급수탑, 정박한 배"
+    ],
+    "poor": [
+      "표정이나 감정이 중심인 사진: 인물 클로즈업, 커플 사진",
+      "구조가 없는 부드러운 주인공: 구름, 연기, 털이 복슬복슬한 동물(단면 모형으로 만들기 어렵습니다)",
+      "사실적인 렌더링, 만화풍 모형, 플라스틱 질감, 제멋대로 떠 있는 콜라주를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر المدينة الهندسية",
+    "tagline": "يعيد بناء صورتك نموذجاً معمارياً مصغّراً متساوي القياس، مقطوعاً ومحاطاً بالسقالات.",
+    "look": "يصبح العنصر مشهداً مجسّماً مصغّراً في الوسط بمنظور متساوي القياس دقيق، مقطوعاً كمكعب أو كجرف قاري تحت الماء لتظهر مقاطعه وطبقاته، ويُبنى المشهد حول فكرة منارة مصغّرة. يُرسم بأسلوب الرسم المعماري اليدوي بخطوط رفيعة: هندسة بسيطة وألوان مسطّحة وتفاصيل دقيقة متقشّفة. وتلتفّ حوله سقالات من قضبان أفقية وعمودية رفيعة ووصلات تدعمه على طول حوافه ومقاطعه، كأنه قيد البناء أو الترميم أو المسح. يقوم على ورق أبيض محبّب بلا ظلال تقريباً، بألوان مأخوذة من الصورة ومرفوعة الإشراق إلى أزرق صافٍ وفيروزي البحيرة وأخضر طري وأصفر ساطع ومرجاني ونحوها. ويمكن إضافة عنوان إنجليزي قصير أو رقم أو سنة كبطاقة على ملصق معماري.",
+    "traits": [
+      "عمارة مصغّرة متساوية القياس",
+      "مكعب مقطوع",
+      "فضاء الجرف القاري",
+      "وصلات السقالات",
+      "رسم معماري يدوي",
+      "ورق أبيض محبّب"
+    ],
+    "good": [
+      "مبانٍ ومنشآت واضحة الشكل: منارة، كنيسة، بيت قديم، جسر",
+      "تضاريس أو مواقع متدرجة: صخور ساحلية، قرية على تلّ، رصيف ميناء",
+      "عناصر مفردة يمكن عرضها كنموذج: جناح صغير، برج مياه، قارب راسٍ"
+    ],
+    "poor": [
+      "صور تتمحور حول الوجوه أو المشاعر: صور الوجوه القريبة، صور الأزواج",
+      "عناصر ناعمة بلا بنية كالغيوم والدخان والحيوانات الكثيفة الفرو، يصعب تحويلها إلى نموذج مقطوع",
+      "طلب تصيير واقعي أو نماذج كرتونية أو ملمس بلاستيكي أو كولاج طافٍ عشوائي"
+    ]
+  }
+}

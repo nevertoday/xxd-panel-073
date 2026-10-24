@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-073
-description: "Create XXD Panel 073 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-073 or requests the exact Panel 073 style."
+description: "XXD Panel 073｜Geometric City Journal: rebuilds the outline, structure and story of a photo as a centred miniature architectural landscape in correct isometric view, cut open like a cube or an underwater continental shelf so its layers show built around a miniature-lighthouse idea, drawn as a fine-lined hand-drawn architectural illustration; a logical scaffolding system of thin horizontal and vertical members and joints wraps, supports or measures the subject, on white textured paper with almost no shadow, in brightened, clear colours from the photo, with an optional short English title, number or year as a restrained editorial label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-073 or asks for isometric cutaway miniature, scaffolding architecture or architectural-diagram poster art from a photo."
 ---
 
 # XXD Panel 073
